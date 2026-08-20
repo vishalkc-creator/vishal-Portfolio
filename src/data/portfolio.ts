@@ -1,7 +1,7 @@
 import resumeAsset from "@/assets/vishal-chauhan-resume.pdf.asset.json";
 
 export const profile = {
-  name: "Vishal Chauhan",
+  name: "Vishal Krishna Chauhan",
   headline: "Aspiring Web Developer | Python Learner",
   intro:
     "Motivated learner with a foundation in HTML, CSS, C++, and Python, interested in web development and practical software projects.",
