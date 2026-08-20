@@ -1,3 +1,5 @@
+import resumeAsset from "@/assets/vishal-chauhan-resume.pdf.asset.json";
+
 export const profile = {
   name: "Vishal Chauhan",
   headline: "Aspiring Web Developer | Python Learner",
@@ -10,8 +12,7 @@ export const profile = {
   email: "vishalkrishnachauhan@email.com",
   phone: "+91 8369603220",
   languages: ["English", "Hindi", "Marathi"],
-  // Replace this file in /public/resume/ with your actual PDF (keep the same name).
-  resumeUrl: "/resume/vishal-chauhan-resume.pdf",
+  resumeUrl: resumeAsset.url,
   // Add entries like { label: "GitHub", url: "https://..." } when you have real URLs.
   socials: [] as { label: string; url: string }[],
 };
