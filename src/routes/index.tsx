@@ -12,9 +12,9 @@ import {
 } from "@/components/portfolio/Sections";
 import { Contact, Footer } from "@/components/portfolio/Contact";
 
-const title = "Vishal Chauhan | Aspiring Web Developer & Python Learner";
+const title = "Vishal Krishna Chauhan | Aspiring Web Developer & Python Learner";
 const description =
-  "Portfolio of Vishal Chauhan, an aspiring web developer and Python learner from Thane, Maharashtra, seeking internship and entry-level opportunities.";
+  "Portfolio of Vishal Krishna Chauhan, an aspiring web developer and Python learner from Thane, Maharashtra, seeking internship and entry-level opportunities.";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -34,7 +34,7 @@ export const Route = createFileRoute("/")({
         children: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Person",
-          name: "Vishal Chauhan",
+          name: "Vishal Krishna Chauhan",
           jobTitle: "Aspiring Web Developer",
           email: "mailto:vishalkrishnachauhan@email.com",
           telephone: "+91 8369603220",
