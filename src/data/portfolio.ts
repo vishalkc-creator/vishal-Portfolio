@@ -52,7 +52,7 @@ export const projects = [
   {
     title: "Personal Portfolio Website",
     description:
-      "Designed and developed a responsive portfolio website using HTML and CSS to present projects, skills, and academic information.",
+      "Designed and developed a fully responsive personal portfolio website using HTML and CSS to showcase my skills, projects, education, and professional journey in a clean and modern layout.",
     tech: ["HTML", "CSS"],
     status: "Completed",
     demoUrl: null as string | null,
@@ -62,9 +62,9 @@ export const projects = [
   {
     title: "AI Resume & Job Matcher",
     description:
-      "Developed an AI-focused project concept/application for matching resume information with relevant job opportunities and improving job-search relevance.",
+      "Conceptualised an AI-powered resume and job matching solution that aligns candidate profiles with relevant opportunities, improving the efficiency and relevance of job searches.",
     purpose:
-      "Help job seekers find opportunities that align more closely with the information in their resume.",
+      "To help job seekers discover opportunities that closely match their skills, experience, and career interests.",
     concept: "Resume-to-job matching concept using AI-assisted relevance matching.",
     tech: [] as string[],
     status: "In development",
@@ -75,7 +75,7 @@ export const projects = [
   {
     title: "Academic Presentations",
     description:
-      "Created clear and visually engaging PowerPoint presentations for classroom projects and seminars.",
+      "Created well-structured and visually engaging PowerPoint presentations for academic projects and seminars, demonstrating strong communication and presentation design skills.",
     tech: ["Microsoft PowerPoint", "Presentation Design"],
     status: "Ongoing",
     demoUrl: null as string | null,
@@ -86,11 +86,11 @@ export const projects = [
 
 export const experience = [
   {
-    role: "Python Internship",
+    role: "Python Intern",
     org: "Yuva Intern",
     status: "Currently Developing Skills",
     description:
-      "Currently developing practical Python programming skills through internship-based learning and project work.",
+      "Gaining practical exposure to Python programming through structured internship learning, focused on building logic, problem-solving, and project-based application development.",
   },
 ];
 
