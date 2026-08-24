@@ -2,11 +2,11 @@ import resumeAsset from "@/assets/vishal-chauhan-resume.pdf.asset.json";
 
 export const profile = {
   name: "Vishal Krishna Chauhan",
-  headline: "Aspiring Web Developer | Python Learner",
+  headline: "Aspiring Web Developer | Python Enthusiast",
   intro:
-    "Motivated learner with a foundation in HTML, CSS, C++, and Python, interested in web development and practical software projects.",
+    "Detail-oriented and self-motivated developer with a strong foundation in HTML, CSS, C++, and Python. Passionate about building clean, responsive websites and practical software solutions that solve real-world problems.",
   about:
-    "I am a motivated learner with a foundation in HTML, CSS, C++, and Python. I am interested in web development and practical software projects, and I enjoy building projects that help me apply what I learn. I am currently developing my Python skills through a Yuva Intern internship and looking for opportunities to gain industry experience and contribute to real-world projects.",
+    "I am Vishal Krishna Chauhan, an aspiring web developer and Python enthusiast based in Thane, Maharashtra. I have built a solid foundation in HTML, CSS, C++, and Python, and I enjoy turning ideas into functional, user-friendly digital experiences. Through my ongoing Python internship at Yuva Intern, I am strengthening my problem-solving abilities and gaining hands-on exposure to real-world project workflows. I am a quick learner, a reliable team player, and eager to contribute to projects where I can grow my technical skills while delivering meaningful results.",
   location: "Vartak Nagar, Thane (West), Maharashtra",
   shortLocation: "Thane, Maharashtra",
   email: "vishalkrishnachauhan@email.com",
