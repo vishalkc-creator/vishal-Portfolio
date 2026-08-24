@@ -4,7 +4,7 @@ hi
 
 This project was built with [Lovable](https://lovable.dev).
 
-**Live app**: https://vishal-dev.lovable.app
+**Live app**: https://vishalchauhan-portfolio.lovable.app
 
 ## Build with Lovable
 
